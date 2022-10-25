@@ -1,0 +1,21 @@
+body{
+    background:url("https://ih1.redbubble.net/image.2025310964.5513/st,small,507x507-pad,600x600,f8f8f8.jpg") fixed bottom right no-repeat, url("https://pbs.twimg.com/media/FOpF9doWUAkOyAr.png") fixed bottom right no-repeat #000;
+    font-family:monospace;
+    color:#0f0;
+    font-size:24px;
+    margin:10px;
+
+}
+h1{
+    margin:0;
+}
+.message{
+display:block;
+margin-bottom:10px;
+}
+a, .active-false{
+    color:rgb(0, 81, 255);
+}
+.active-true{
+    color:rgb(255,0,0);
+}
