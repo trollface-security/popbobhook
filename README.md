@@ -6,4 +6,4 @@ An automatic scanner that scans and guns for minecraft servers that are backdoor
 popbob on top
 
 
-written by GNSec
+written by trollface security
